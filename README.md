@@ -12,10 +12,9 @@ My motivation was to build an app that can help people be more organized with th
 
 ## Usage
 
+Please got to the following URL in order to view the Planner: https://dannym15.github.io/Mob-Planner2/
 
-Please got to the following URL in order to view the Planner:
-
-it should look similar to this this:
+it should look similar to this this: ![alt test](assets/images/Daily Planner.PNG)
 
 ## Credits
 
